@@ -13,7 +13,6 @@ source ~/.bashrc
 /etc/hosts << $0 $1
 
 # ntp server
-ntpdate ntp.nict.jp
 
 # package install
 apt-get install ros-kinetic-navigation
